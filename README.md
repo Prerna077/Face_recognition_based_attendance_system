@@ -1,7 +1,7 @@
 # Face_recognition_based_attendance_system
 A python GUI integrated attendance system using face recognition to take attendance.
 
-In this python project, I have made an attendance system which takes attendance by using face recognition technique. I have also intergrated it with GUI (Graphical user interface) so it can be easy to use by anyone. GUI for this project is also made on python using tkinter.
+In this python project, I made an attendance system that takes attendance using face recognition technique. I have also intergrated it with GUI (Graphical user interface) so it can be easy to use by anyone. GUI for this project is also made on python using tkinter.
 
 TECHNOLOGY USED:
 1) tkinter for whole GUI
@@ -29,7 +29,7 @@ SHOWING ATTENDANCE TAKEN:
 ![Screenshot (11)](https://github.com/user-attachments/assets/6947735d-ed09-48e1-bf49-aa7604e90c4d)
 
 HELP OPTION IN MENUBAR:
-![Screenshot (12)](https://user-images.githubusercontent.com/37211676/58502152-991d5700-81a3-11e9-861a-9115526010c2.png)
+![Screenshot (12)](https://github.com/user-attachments/assets/8b5e7790-f589-4d0d-ac1a-f99cc2abd419).
 
 CHANGE PASSWORD OPTION:
-![Screenshot (13)](https://user-images.githubusercontent.com/37211676/58502146-97539380-81a3-11e9-8536-0c68160ecc55.png)
+![Screenshot (13)](https://github.com/user-attachments/assets/ca6abc25-cf62-4214-af33-992ae2beeab1).
